@@ -1,0 +1,72 @@
+{
+   "food":[
+      {
+         "name" : "food1",
+         "price" : "1000",
+         "stock" : 100,
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/cCFVcYI.jpg"
+      },
+      {
+         "name" : "food2",
+         "price" : 2000,
+         "stock" : 100,
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/cTeCqaj.jpg"
+      },
+      {
+         "name" : "food3",
+         "price" : 3000,
+         "stock" : 100,
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/KcbVkPg.jpg"
+      }
+   ],
+   "drink":[
+      {
+         "name" : "drink1",
+         "price" : "100",
+         "stock" : "100",
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/ANDrR0v.jpg"
+         
+      },
+      {
+         "name" : "drink2",
+         "price" : "200",
+         "stock" : "100",
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/R8FeiXX.jpg"
+      },
+      {
+         "name" : "drink3",
+         "price" : "300",
+         "stock" : "100",
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/7oSAYPE.jpg"
+      }
+   ],
+   "ball":[
+      {
+         "name" : "ball1",
+         "price" : 10,
+         "stock" : 100,
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/agwu3Gv.jpg"
+      },
+      {
+         "name" : "ball2",
+         "price" : 20,
+         "stock" : 100,
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/l34yb9B.jpg"
+      },
+      {
+         "name" : "ball3",
+         "price" : 30,
+         "stock" : 100,
+         "details" : "xxxxx",
+         "imgae": "https://imgur.com/V1Cta5D.jpg"
+      }
+   ]
+}
